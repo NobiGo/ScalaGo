@@ -1,0 +1,2 @@
+# ScalaGo
+study Scala
