@@ -1,12 +1,9 @@
 package WordCountDemo
 
-import java.io.File
 
 import Tools.FileTools
 import org.apache.spark.rdd.RDD
 import org.apache.spark.{SparkConf, SparkContext}
-
-import scala.io.Source
 
 
 object WordCount {
